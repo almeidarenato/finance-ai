@@ -1,5 +1,5 @@
-const Transactions = () => {
-  return <h1>Transações</h1>;
-};
-
-export default Transactions;
+const TransactionsPage = () => {
+  return (  );
+}
+ 
+export default TransactionsPage;
